@@ -1,0 +1,18 @@
+Package: BSgenome.Mtruncatula.JCVI.Medtrv4
+Title: Full genome sequences for Medicago truncatula (JCVI version Mt4.0v1)
+Description: Full genome sequences for Medicago truncatula (Barrel Medic) as provided by JCVI (Mt4.0v1, Apr. 2014) and stored in Biostrings objects.
+Version: 4.0.1
+Author: The Bioconductor Dev Team
+Maintainer: Bioconductor Package Maintainer <maintainer@bioconductor.org>
+Depends: BSgenome (>= 1.42.0)
+Imports: BSgenome
+Suggests: 
+License: Artistic-2.0
+organism: Medicago truncatula
+common_name: Barrel Medic
+provider: JCVI
+provider_version: Mt4.0v1
+release_date: Apr. 2014
+release_name: Medicago truncatula Genome Project Mt4.0v1
+source_url: http://jcvi.org/medicago/display.php?pageName=General&section=Download
+biocViews: AnnotationData, Genetics, BSgenome, Medicago_truncatula
